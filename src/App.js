@@ -41,7 +41,15 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="science" />
         </main>
-        <footer className="text-center">Coded by Anna Koval</footer>
+        <footer className="text-center">
+          <a
+            href="https://github.com/AnnyKoval/dictionary-react-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Coded by Anna Koval
+          </a>
+        </footer>
       </div>
     </div>
   );
