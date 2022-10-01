@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-#React | CSS | VS Code | API | GitHub | Bootstrap | Hosting
+React | CSS | VS Code | API | GitHub | Bootstrap | Hosting
 
-#This project is an interactive dictionary app created using React. It provides you with real-life data, since it has an integrated API, provided by dictionaryapi.dev. It enables you to access information such as meanings of words, synonyms, and pictures.
+This project is an interactive dictionary app created using React. It provides you with real-life data, since it has an integrated API, provided by dictionaryapi.dev. It enables you to access information such as meanings of words, synonyms, and pictures.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
